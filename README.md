@@ -19,9 +19,10 @@
 
 
 >#프론트엔드
-> **LiBrary**: react.js, Bootstrap   
+> **Web**: react.js, Bootstrap  
+>**IOS**: mvvm ReactiveX UIKit , **Network 통신** : URLSession or Moya
+> 
 
 
 ## application architecture
 >![service-arch drawio](https://user-images.githubusercontent.com/96905460/231642555-b7bdd31c-523c-4b37-b2e1-1e322f6dba0e.png)
-
